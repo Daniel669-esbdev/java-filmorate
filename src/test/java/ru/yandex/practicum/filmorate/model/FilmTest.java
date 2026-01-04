@@ -83,4 +83,5 @@ class FilmTest {
             throw new ValidationException("Продолжительность должна быть положительной"); //
         }
     }
-} //
+}
+// сделал все по шаблону
